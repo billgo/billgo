@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi there, I'm [Billgo](https://billgo.me) 👋
 
-<!--
-**billgo/billgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Billgo, a passionate self-taught full-stack web developer from Singapore.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [AMSS](https://amssasia.com.cn)
+- 🌱 I’m currently learning Julia & Rust
+- 💬 Ask me about anything [here](https://github.com/billgo/billgo/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Julia and Rust ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:**  
 
-I'm a web developer based in Singapore, a lot of my open source work is focusing on making web development easier, which is probably why you're here.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
