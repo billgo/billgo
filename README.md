@@ -5,7 +5,6 @@ Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web dev
 - 🔭 I’m currently working at [Bridge5 Asia](https://github.com/bridge5).
 - 🌱 I’m currently learning Julia & Rust.
 - 💬 Ask me about anything [Here](https://github.com/billgo/billgo/issues)
-- 🤔 I’m looking for help with everything in my career.
 - 📫 How to reach me: hi@billgo.me
 
 **Languages and Tools:**  
