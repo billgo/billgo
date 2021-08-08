@@ -3,7 +3,7 @@
 Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web developer from Singapore.
 
 - 🔭 I’m currently working at [Bridge5 Asia](https://github.com/bridge5).
-- 🌱 I’m currently learning Go & Julia.
+- 🌱 I’m currently learning JavaScript, Julia & Go.
 - - 📫 How to reach me: hi@billgo.me
 - 💬 Ask me about anything [Here](https://github.com/billgo/billgo/issues)
 
