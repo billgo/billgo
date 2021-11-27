@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web developer from Singapore.
-
 **Thanks for visiting my GitHub profile, it's great to meet you here! 😊**  
 
-Here are some quick things about me:
+Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web developer from Singapore.
 
 - 🔭 I’m currently working at [Bridge5 Asia](https://github.com/bridge5).
 - 🌱 I’m currently learning JavaScript, Julia & Go.
