@@ -9,7 +9,7 @@ Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web dev
 - 📫 How to reach me: hi@billgo.me
 - 💬 Ask me about anything [Here](https://github.com/billgo/billgo/issues)
 
-Last but not the least, we're hiring at [Bridge5 Asia](https://github.com/bridge5)!
+Last but not the least, we're hiring at Bridge5 Asia!
 
 
 **Languages and Tools:**  
