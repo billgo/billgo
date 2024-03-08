@@ -2,9 +2,7 @@
 
 **Thanks for visiting my GitHub profile, it's great to meet you here! 😊**  
 
-Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web developer from Singapore. I enjoy building software that enables people to live better, well-being or performance. I help clients turn their ideas into web applications while leading teams and improving projects for our company. 
-
-When I'm not coding, I enjoy reading and hiking.
+Hi, I'm [Billgo](https://billgo.me), a passionate self-taught full-stack web developer from Singapore. I enjoy building software that enables people to live better, well-being or performance. I help clients turn their ideas into web applications. When I'm not coding, I enjoy reading and hiking.
 
 - 🔭 I’m currently working at [Bridge5 Asia](https://github.com/bridge5) as a CTO..
 - 🌱 I’m currently learning JavaScript/Typescript, Go, Julia, Rust & Zig.
